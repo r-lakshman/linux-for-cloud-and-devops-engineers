@@ -108,7 +108,7 @@ This screenshot demonstrates the Linux directory and file structure created duri
 
 ## Learning Outcomes
 
-After completing this project, I gained practical experience in:
+This project covers the following practical skills and concepts:
 
 - Creating and managing Linux users and groups.
 - Managing primary and secondary group memberships.
